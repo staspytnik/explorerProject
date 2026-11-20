@@ -1,0 +1,39 @@
+.profile {
+  border-radius: 100%;
+  width: 32px;
+  height: 32px;
+  background: linear-gradient(135deg, #7c3aed 0%, #3b82f6 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 143%;
+  text-align: center;
+  color: white;
+  position: relative;
+}
+.name {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 143%;
+  color: white;
+}
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}
+.onlineDot {
+  border: 2px solid #07091a;
+  border-radius: 100%;
+  width: 10px;
+  height: 10px;
+  background: #00d492;
+  position: absolute;
+  bottom: -2px;
+  right: -5px;
+}

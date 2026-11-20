@@ -1,0 +1,114 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Пінгвіни Мадагаскару",
+      "description": "Кумедні пінгвіни вирушають у захопливу пригоду, де їм доведеться проявити винахідливість, сміливість і командну роботу.",
+      "release": 2014,
+      "genre": ["Animation", "Comedy", "Adventure"],
+      "rating": 6.6,
+      "type": "cartoon",
+      "image": "https://image.tmdb.org/t/p/w500/2qH7p9hK4Q3K8QJ5w7c7Q7F6K8.jpg",
+      "favourites": true
+    },
+    {
+      "id": 2,
+      "name": "Геркулес",
+      "description": "Геркулес — син Зевса, який намагається знайти своє місце серед богів і людей та довести, що він справжній герой.",
+      "release": 1997,
+      "genre": ["Animation", "Fantasy", "Adventure"],
+      "rating": 7.3,
+      "type": "cartoon",
+      "image": "https://image.tmdb.org/t/p/w500/4DIsy5kW8m6h1fQ4m6J6h2Q4J7.jpg",
+      "favourites": true
+    },
+    {
+      "id": 3,
+      "name": "Король Лев",
+      "description": "Сімба, молодий лев-принц, після трагічної загибелі батька залишає рідні землі, але згодом повертається, щоб зайняти своє місце в королівстві.",
+      "release": 2019,
+      "genre": ["Adventure", "Drama", "Family"],
+      "rating": 6.8,
+      "type": "movie",
+      "image": "https://image.tmdb.org/t/p/w500/dzBtMocZuJbjLOXvrl4zGYigDzh.jpg",
+      "favourites": false
+    },
+    {
+      "id": 4,
+      "name": "Як приборкати дракона",
+      "description": "Юний вікінг Іккінґ знаходить пораненого дракона та всупереч традиціям вирішує подружитися з ним.",
+      "release": 2010,
+      "genre": ["Animation", "Fantasy", "Adventure"],
+      "rating": 8.1,
+      "type": "cartoon",
+      "image": "https://image.tmdb.org/t/p/w500/ygGmAO60t8Gyq2Zx8Y6k3Q2Q7Q.jpg",
+      "favourites": false
+    },
+    {
+      "id": 5,
+      "name": "Гаррі Поттер і філософський камінь",
+      "description": "Гаррі Поттер дізнається, що він чарівник, і вирушає навчатися до школи магії Гоґвортс, де починається його неймовірна пригода.",
+      "release": 2001,
+      "genre": ["Fantasy", "Adventure", "Family"],
+      "rating": 7.6,
+      "type": "movie",
+      "image": "https://image.tmdb.org/t/p/w500/lnWb1J6M5Y5Q5F6Q7Q7Q8Q8Q9Q.jpg",
+      "favourites": false
+    },
+    {
+      "id": 6,
+      "name": "Шрек",
+      "description": "Самотній огр Шрек вирушає на незвичайну місію, яка несподівано змінює його життя та знайомить із балакучим Оселом.",
+      "release": 2001,
+      "genre": ["Animation", "Comedy", "Fantasy"],
+      "rating": 7.9,
+      "type": "cartoon",
+      "image": "https://image.tmdb.org/t/p/w500/edv5CZvWj09upOsy2Y6M6x2Q7Q.jpg",
+      "favourites": false
+    },
+    {
+      "id": 7,
+      "name": "Пірати Карибського моря",
+      "description": "Капітан Джек Спарроу вирушає у небезпечну пригоду, щоб повернути свій корабель та розібратися з прокляттям піратів.",
+      "release": 2003,
+      "genre": ["Adventure", "Action", "Fantasy"],
+      "rating": 8.1,
+      "type": "movie",
+      "image": "https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zK2k9J6Q5Q7Q.jpg",
+      "favourites": false
+    },
+    {
+      "id": 8,
+      "name": "ВОЛЛ·І",
+      "description": "Самотній робот ВОЛЛ·І продовжує прибирати покинуту Землю, поки зустріч із роботом Євою не змінює його життя.",
+      "release": 2008,
+      "genre": ["Animation", "Sci-Fi", "Adventure"],
+      "rating": 8.4,
+      "type": "cartoon",
+      "image": "https://image.tmdb.org/t/p/w500/hbhFnRzzg6ZDmm8YAmxBnQxG2Q.jpg",
+      "favourites": false
+    },
+    {
+      "id": 9,
+      "name": "Месники",
+      "description": "Група супергероїв об'єднується, щоб захистити Землю від небезпечної загрози та врятувати людство.",
+      "release": 2012,
+      "genre": ["Action", "Adventure", "Sci-Fi"],
+      "rating": 8.0,
+      "type": "movie",
+      "image": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+      "favourites": false
+    },
+    {
+      "id": 10,
+      "name": "Рататуй",
+      "description": "Щур Ремі мріє стати кухарем і отримує шанс здійснити свою мрію на кухні одного з найкращих ресторанів Парижа.",
+      "release": 2007,
+      "genre": ["Animation", "Comedy", "Family"],
+      "rating": 8.1,
+      "type": "cartoon",
+      "image": "https://image.tmdb.org/t/p/w500/npAlzB3p3q5Q5Q7Q8Q9Q2Q3Q4Q.jpg",
+      "favourites": false
+    }
+  ]
+}

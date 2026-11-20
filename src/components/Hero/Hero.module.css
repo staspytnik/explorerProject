@@ -1,0 +1,90 @@
+.hero {
+  padding: 64px 0;
+  @media (min-width: 768px) {
+    padding: 80px 0;
+  }
+  @media (min-width: 1280px) {
+    padding: 96px 0;
+  }
+}
+
+.title {
+  font-family: "DM Serif Display", serif;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 110%;
+  color: #fff;
+  margin-top: 20px;
+  margin-bottom: 16px;
+
+  @media (min-width: 768px) {
+    font-size: 60px;
+  }
+  @media (min-width: 1280px) {
+    font-size: 72px;
+  }
+}
+
+.rating {
+  font-family: "Outfit", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 150%;
+  color: #ffffff;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.star {
+  color: #ffb900;
+}
+
+.info {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 143%;
+  color: #94a3b8;
+  flex-direction: row;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  gap: 12px;
+}
+
+.genres {
+  composes: wrapper;
+  gap: 4px;
+}
+
+.dot {
+  width: 4px;
+  height: 4px;
+  background-color: #94a3b8;
+  border-radius: 100%;
+}
+
+.genre {
+  composes: info;
+  display: flex;
+  align-items: center;
+}
+.genre::after {
+  content: "·";
+  display: block;
+  margin-left: 4px;
+}
+.genre:last-child::after {
+  display: none;
+}
+
+.description {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+  color: #94a3b8;
+}

@@ -1,0 +1,18 @@
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 28px;
+}
+
+.link {
+  font-family: "Outfit", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 143%;
+  text-align: center;
+  color: #a78bfa;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}

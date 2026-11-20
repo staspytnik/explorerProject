@@ -1,0 +1,23 @@
+.button {
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 20px;
+  padding: 20px;
+  width: 350px;
+  background: linear-gradient(
+    109.53deg,
+    rgba(124, 58, 237, 0.1) 0.6%,
+    rgba(59, 130, 246, 0.08) 99.4%
+  );
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin: 40px 0;
+}
+
+.info {
+  font-family: "Outfit", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 143%;
+  color: #90a1b9;
+}
